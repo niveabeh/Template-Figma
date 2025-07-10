@@ -15,4 +15,5 @@ Figma: https://www.figma.com/design/aZut5aVakXPfM8SlSYZP3S/Templates-2025?node-i
 </p>
 
 <p align="center">
-  <img src="https://github.com/nive
+  <img src="https://github.com/niveabeh/Template-Figma/blob/main/img/Captura%20de%20tela%202025-07-10%20111405.png" alt="Menu lateral com os demais templates" width="500"/>
+</p>
